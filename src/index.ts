@@ -6,7 +6,7 @@ import AuthRoutes from "./routes/AuthRoutes";
 import swaggerUi from "swagger-ui-express";
 import swaggerDocs from './config/swagger';
 
-//Création serveur express
+//Création serveur express 
 const app = express()
 
 //chargement des variables d'environnement
